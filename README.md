@@ -1,11 +1,23 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+## ⭐Sobre mí
 
-Bienvenido a mi perfil de GitHub. Soy [tu profesión o área de especialidad] apasionado por [tus intereses o especialidades]. 
+- 👩🏻‍💻Fullstack Dev
+- 👩‍💼Proxy Product Owner
+- 💜Mentora <a href="https://step4ward.es/team/raquel/">Step4ward</a>
+- 💬English philologist
+- 🎙️Soprano
 
-- 💼 Actualmente, trabajo en [tu puesto o proyecto actual]
-- 🌱 Estoy aprendiendo [habilidades o tecnologías que estás estudiando]
-- 👯 Estoy buscando colaborar en [proyectos o áreas en las que estás interesado]
-- 💬 Pregúntame sobre [temas en los que tienes experiencia]
+<div align="center">
+<img src="https://github.com/3592917/3592917/blob/main/scaler-create-impact.gif?raw=true" width="150" />
+</div>
+
+# 👋 ¡Hola! Soy Quique
+
+Bienvenido a mi perfil de GitHub. Soy Administrador de redes y apasionado por la programación. 
+
+- 💼 Actualmente, trabajo en Elpozo Alimentación.
+- 🌱 Estoy aprendiendo java, phyton, github...
+- 👯 Estoy buscando colaborar en áreas de programación.
+- 💬 Pregúntame sobre redes, programación...
 - 📫 Puedes contactarme en: [tu email u otro medio de contacto]
 
 ## 🚀 Tecnologías y herramientas
